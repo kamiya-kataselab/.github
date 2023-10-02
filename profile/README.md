@@ -46,6 +46,10 @@ organization profile の画面で```people```タブを選択する。```invite m
 >Select the ``people`` tab on the ``organization profile`` screen. Select ``invite members`` and enter the email addresses of the new members.
 
 *__peopleタブの画像__*  
+<center>
+    <img src="/src_image/people_tab.png" alt="alternative text" />
+</center>
+
 ![peopleタブ](/src_image/people_tab.png)  
   
 
