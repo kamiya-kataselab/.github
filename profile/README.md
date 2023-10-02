@@ -11,17 +11,23 @@
 ## How to create a new GitHub account
 [GitHubの公式ページ](https://github.co.jp/) ```github.co.jp``` から登録します。  
 リンクから公式ページに飛び、画像にある「githubに登録する」ボタンを押してください。
->Register a new account at github.co.jp, the official GitHub page.
+>Register a new account at github.co.jp, the official GitHub page.  
 >Please jump to the official page from the link and press the "githubに登録する" button in the image.
 
-![公式ページの画面](/src_image/github_co_jp_page.png)
+![公式ページの画面](/src_image/github_co_jp.png)
 
-Username, email Address, password を入力してください。  
+Username, email Address, password を入力してください。メールアドレスは後から追加変更できるので、どれでも構いません。  
 Usernameは今後、このアカウントから作成されるレポジトリのURLに使われるので入力できる文字に制限があります。  
 当然スペースなどは使用できません。また、本名である必要もありません。親しみを持てる名前にしてください。  
->
+>Please enter your Username, email address and password.You can add and change your email address later, so any of the email addresses are acceptable.
+>Username is used for the URL of the repository that will be created from this account in the future, so there are restrictions on the characters you can enter.  
+>Naturally, no spaces are allowed. It does not have to be your real name. Please use a name that you are familiar with.  
 
 ![アカウント登録画面](/src_image/github_resister.png)
+
+5分くらい待つとと登録したメールアドレスに認証のメールが届きます。アカウント作成完了です。
+なお、新しくメールアドレスを追加したい場合は、アカウントページでアイコンを押して ```Setting``` の ```Email``` から追加できます。  
+初めに設定したアドレスが ```Primary``` に設定されているので、必要に応じて変更してください。
 
 
 ## How to activate GitHub Education
