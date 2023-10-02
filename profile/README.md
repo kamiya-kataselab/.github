@@ -40,4 +40,16 @@ GitHubアカウントにmアドレスを追加しておく。プライマリー�
 >You will be asked to upload your student ID card, so take a picture and upload it.
 
 ## (To organization's members) How to send a invitation to new members
+organization profile の画面で```people```タブを選択する。```invite members``` を選択して、新しいメンバーのメールアドレスを入力する。
+>Select the ``people`` tab on the ``organization profile`` screen. Select ``invite members`` and enter the email addresses of the new members.
 
+*__peopleタブの画像__*  
+![peopleタブ](/src_image/people_tab.png)  
+  
+
+*__invite memberボタンの画像__*  
+![invite_member](/src_image/invite_member_tab.png)  
+  
+
+*__アカウント検索画面の画像__*  
+![search_emailadress](/src_image/search_account.png)    
