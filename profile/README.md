@@ -11,7 +11,18 @@
 ## How to create a new GitHub account
 [GitHubの公式ページ](https://github.co.jp/) ```github.co.jp``` から登録します。  
 リンクから公式ページに飛び、画像にある「githubに登録する」ボタンを押してください。
-![公式ページの画面](https://github.com/kamiya-kataselab/.github/src_image/github_co_jp_page.png)
+>Register a new account at github.co.jp, the official GitHub page.
+>Please jump to the official page from the link and press the "githubに登録する" button in the image.
+
+![公式ページの画面](/src_image/github_co_jp_page.png)
+
+Username, email Address, password を入力してください。  
+Usernameは今後、このアカウントから作成されるレポジトリのURLに使われるので入力できる文字に制限があります。  
+当然スペースなどは使用できません。また、本名である必要もありません。親しみを持てる名前にしてください。  
+>
+
+![アカウント登録画面](/src_image/github_resister.png)
+
 
 ## How to activate GitHub Education
 
