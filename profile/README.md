@@ -8,7 +8,7 @@
 ## Contents
 - [How to create a new GitHub account](#how-to-create-a-new-gitHub-account)
 - [How to activate GitHub Education [Optional Setting]](#how-to-activate-github-education-optional-setting)
-- [How to send a invitation to new members [for organization's members]](#how-to-send-a-invitation-to-new-members-for-organizations-members)
+- [How to send an invitation to new members [for organization's members]](#how-to-send-an-invitation-to-new-members-for-organizations-members)
 
 ## How to create a new GitHub account
 [GitHubの公式ページ](https://github.co.jp/) ```github.co.jp``` から登録します。  
