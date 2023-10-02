@@ -8,7 +8,7 @@
 ## Contents
 - [How to create a new GitHub account](#how-to-create-a-new-gitHub-account)
 - [How to activate GitHub Education [Optional Setting]](#how-to-activate-github-education-optional-setting)
-- [How to send a invitation to new members [To organization's members]](#how-to-send-a-invitation-to-new-members-to-organizations-members)
+- [How to send a invitation to new members [for organization's members]](#how-to-send-a-invitation-to-new-members-for-organizations-members)
 
 ## How to create a new GitHub account
 [GitHubの公式ページ](https://github.co.jp/) ```github.co.jp``` から登録します。  
@@ -41,7 +41,7 @@ GitHubアカウントにmアドレスを追加しておく。プライマリー�
 >Register for GitHub Education by referring to the site at this URL.
 >You will be asked to upload your student ID card, so take a picture and upload it.
 
-## How to send a invitation to new members [To organization's members]
+## How to send an invitation to new members [For organization's members]
 organization profile の画面で```people```タブを選択する。```invite members``` を選択して、新しいメンバーのメールアドレスを入力する。
 >Select the ``people`` tab on the ``organization profile`` screen. Select ``invite members`` and enter the email addresses of the new members.
 
