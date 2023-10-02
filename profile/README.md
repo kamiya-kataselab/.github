@@ -16,7 +16,9 @@
 >Register a new account at github.co.jp, the official GitHub page.  
 >Please jump to the official page from the link and press the "githubに登録する" button in the image.
 
-![公式ページの画面](/src_image/github_co_jp.png)
+<p align="center">
+  <img src="/src_image/github_co_jp.png" alt="broken image" />
+</p>
 
 Username, email Address, password を入力してください。メールアドレスは後から追加変更できるので、どれでも構いません。  
 Usernameは今後、このアカウントから作成されるレポジトリのURLに使われるので入力できる文字に制限があります。  
@@ -25,7 +27,9 @@ Usernameは今後、このアカウントから作成されるレポジトリの
 >Username is used for the URL of the repository that will be created from this account in the future, so there are restrictions on the characters you can enter.  
 >Naturally, no spaces are allowed. It does not have to be your real name. Please use a name that you are familiar with.  
 
-![アカウント登録画面](/src_image/github_resister.png)
+<p align="center">
+  <img src="/src_image/github_resister.png" alt="broken image" />
+</p>
 
 5分くらい待つとと登録したメールアドレスに認証のメールが届きます。アカウント作成完了です。  
 なお、新しくメールアドレスを追加したい場合は、アカウントページでアイコンを押して ```Settings``` の ```Emails``` から追加できます。  
@@ -46,16 +50,16 @@ organization profile の画面で```people```タブを選択する。```invite m
 >Select the ``people`` tab on the ``organization profile`` screen. Select ``invite members`` and enter the email addresses of the new members.
 
 *__peopleタブの画像__*  
-<center>
-    <img src="/src_image/people_tab.png" alt="alternative text" />
-</center>
-
-![peopleタブ](/src_image/people_tab.png)  
-  
+<p align="center">
+  <img src="/src_image/people_tab.png" alt="broken image" />
+</p>
 
 *__invite memberボタンの画像__*  
-![invite_member](/src_image/invite_member_tab.png)  
-  
+<p align="center">
+  <img src="/src_image/invite_member_tab.png" alt="broken image" />
+</p>
 
 *__アカウント検索画面の画像__*  
-![search_emailadress](/src_image/search_account.png)    
+<p align="center">
+  <img src="/src_image/search_account.png" alt="broken image" />
+</p>
