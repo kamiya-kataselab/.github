@@ -5,7 +5,10 @@
 ## Contents
 - [How to create a new GitHub account](#how-to-create-a-new-gitHub-account)
 - [How to activate GitHub Education](#how-to-activate-gitHub-education)
+- [(To organization's members) How to send a invitation to new members](#(to-organization's-members)-how-to-send-a-invitation-to-new-members)
 
 ## How to create a new GitHub account
 
 ## How to activate GitHub Education
+
+## (To organization's members) How to send a invitation to new members
