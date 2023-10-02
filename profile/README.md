@@ -5,8 +5,8 @@
 
 ## Contents
 - [How to create a new GitHub account](#how-to-create-a-new-gitHub-account)
-- [(optinal-setting) How to activate GitHub Education](#(optinal-setting)-how-to-activate-gitHub-education)
-- [(To organization's members) How to send a invitation to new members](#(to-organization's-members)-how-to-send-a-invitation-to-new-members)
+- [How to activate GitHub Education](#how-to-activate-gitHub-education-[Optinal-Setting])
+- [How to send a invitation to new members](#how-to-send-a-invitation-to-new-members-[To-organization's-members])
 
 ## How to create a new GitHub account
 [GitHubの公式ページ](https://github.co.jp/) ```github.co.jp``` から登録します。  
@@ -32,14 +32,14 @@ Usernameは今後、このアカウントから作成されるレポジトリの
 >If you would like to add a new email address, you can do so by pressing the icon on your account page and selecting ``Settings`` and then ``Emails``.
 >The address which you resistered a few minutes ago is set to ``Primary``, so change it if necessary.
 
-## (Optinal Setting) How to activate GitHub Education
+## How to activate GitHub Education [Optinal Setting]
 GitHubアカウントにmアドレスを追加しておく。プライマリーでもセカンダリーでも、どちらでも問題ない。
 この[URLのサイト](https://qiita.com/Kobayashi2019/items/5adb9bde57691a770419)を参考にして、GitHub Education の登録をする。学生証のアップロードを求められるので、写真を撮ってアップロードする。認証に数日かかる。
 >Please add email address whose domain is ```m.titech.ac.jp```.
 >Register for GitHub Education by referring to the site at this URL.
 >You will be asked to upload your student ID card, so take a picture and upload it.
 
-## (To organization's members) How to send a invitation to new members
+## How to send a invitation to new members [To organization's members]
 organization profile の画面で```people```タブを選択する。```invite members``` を選択して、新しいメンバーのメールアドレスを入力する。
 >Select the ``people`` tab on the ``organization profile`` screen. Select ``invite members`` and enter the email addresses of the new members.
 
