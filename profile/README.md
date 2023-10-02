@@ -5,7 +5,7 @@
 
 ## Contents
 - [How to create a new GitHub account](#how-to-create-a-new-gitHub-account)
-- [How to activate GitHub Education](#how-to-activate-gitHub-education)
+- [(optinal-setting) How to activate GitHub Education](#(optinal-setting)-how-to-activate-gitHub-education)
 - [(To organization's members) How to send a invitation to new members](#(to-organization's-members)-how-to-send-a-invitation-to-new-members)
 
 ## How to create a new GitHub account
@@ -25,12 +25,19 @@ Usernameは今後、このアカウントから作成されるレポジトリの
 
 ![アカウント登録画面](/src_image/github_resister.png)
 
-5分くらい待つとと登録したメールアドレスに認証のメールが届きます。アカウント作成完了です。
-なお、新しくメールアドレスを追加したい場合は、アカウントページでアイコンを押して ```Setting``` の ```Email``` から追加できます。  
-初めに設定したアドレスが ```Primary``` に設定されているので、必要に応じて変更してください。
+5分くらい待つとと登録したメールアドレスに認証のメールが届きます。アカウント作成完了です。  
+なお、新しくメールアドレスを追加したい場合は、アカウントページでアイコンを押して ```Settings``` の ```Emails``` から追加できます。  
+初めに設定したアドレスが ```Primary``` に設定されているので、必要に応じて変更してください。  
+>Wait for about 5 minutes and you will receive a verification email to your registered email address. Your account creation is complete.
+>If you would like to add a new email address, you can do so by pressing the icon on your account page and selecting ``Settings`` and then ``Emails``.
+>The address which you resistered a few minutes ago is set to ``Primary``, so change it if necessary.
 
-
-## How to activate GitHub Education
+## (Optinal Setting) How to activate GitHub Education
+GitHubアカウントにmアドレスを追加しておく。プライマリーでもセカンダリーでも、どちらでも問題ない。
+この[URLのサイト](https://qiita.com/Kobayashi2019/items/5adb9bde57691a770419)を参考にして、GitHub Education の登録をする。学生証のアップロードを求められるので、写真を撮ってアップロードする。認証に数日かかる。
+>Please add email address whose domain is ```m.titech.ac.jp```.
+>Register for GitHub Education by referring to the site at this URL.
+>You will be asked to upload your student ID card, so take a picture and upload it.
 
 ## (To organization's members) How to send a invitation to new members
 
