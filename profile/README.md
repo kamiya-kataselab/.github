@@ -9,7 +9,9 @@
 - [(To organization's members) How to send a invitation to new members](#(to-organization's-members)-how-to-send-a-invitation-to-new-members)
 
 ## How to create a new GitHub account
-[GitHubの公式ページ](https://github.co.jp/) ```github.co.jp``` から登録します。
+[GitHubの公式ページ](https://github.co.jp/) ```github.co.jp``` から登録します。  
+リンクから公式ページに飛び、画像にある「githubに登録する」ボタンを押してください。
+![公式ページの画面](.github/src_image/github_co_jp_page.png)
 
 ## How to activate GitHub Education
 
