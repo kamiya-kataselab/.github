@@ -40,8 +40,9 @@ Usernameは今後、このアカウントから作成されるレポジトリの
 
 ## How to activate GitHub Education [Optional Setting]
 GitHubアカウントにmアドレスを追加しておく。プライマリーでもセカンダリーでも、どちらでも問題ない。
+m.titech.ac.jp でも m.isct.ac.jp でもどちらでも問題ない。
 この[URLのサイト](https://qiita.com/Kobayashi2019/items/5adb9bde57691a770419)を参考にして、GitHub Education の登録をする。学生証のアップロードを求められるので、写真を撮ってアップロードする。認証に数日かかる。
->Please add email address whose domain is ```m.titech.ac.jp```.
+>Please add email address whose domain is ```m.titech.ac.jp``` or ```m.isct.ac.jp```.
 >Register for GitHub Education by referring to the site at this URL.
 >You will be asked to upload your student ID card, so take a picture and upload it.
 
